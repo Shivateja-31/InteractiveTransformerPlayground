@@ -1,0 +1,1 @@
+{"stoi": {"<PAD>": 0, "<UNK>": 1, ".": 2, "AI": 3, "I": 4, "Transformers": 5, "amazing": 6, "are": 7, "coding": 8, "explore": 9, "is": 10, "love": 11, "powerful": 12}, "itos": {"0": "<PAD>", "1": "<UNK>", "2": ".", "3": "AI", "4": "I", "5": "Transformers", "6": "amazing", "7": "are", "8": "coding", "9": "explore", "10": "is", "11": "love", "12": "powerful"}}
