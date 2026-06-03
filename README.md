@@ -37,3 +37,4 @@ The easiest way to run the application is using Docker.
 
 - `backend/`: Contains the PyTorch `model.py`, the `train.py` script, and the FastAPI `main.py` application.
 - `frontend/`: Contains the Vite + React application with all the UI components in `src/components/`.
+# Interactive_Transformer_Playground
